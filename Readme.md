@@ -18,6 +18,7 @@ Author: [GA WU](mailto:wuga@mie.utoronto.ca), D3M Lab, MIE, University of Toront
 3. [Arithmetic Circuits to Affine ADD Compiler](https:not available)
 
 # Cite
+```
 @misc{wu_2017, 
 title={TOOLBOX: Arithmetic Circuits to Tensorflow Compiler}, 
 url={https://github.com/wuga214/TOOLBOX-Arithmetic-Circuits-to-Tensorflow-Compiler}, 
@@ -26,3 +27,4 @@ publisher={D3M Lab, MIE, UofT},
 author={Wu, Ga}, 
 year={2017}, 
 month={Feb}}
+```
