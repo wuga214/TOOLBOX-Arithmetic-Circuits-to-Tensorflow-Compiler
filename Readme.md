@@ -13,9 +13,9 @@ Python 3.4 + Ipython
 Author: [GA WU](mailto:wuga@mie.utoronto.ca), D3M Lab, MIE, University of Toronto
 
 # See Related Toolbox
-[Random Bayesian Network Generator](https://github.com/wuga214/TOOLBOX-Random-Bayes-Net-Generator)
-[Deep Network to Arithmetic Circuits Compiler](https:not available)
-[Arithmetic Circuits to Affine ADD Compiler](https:not available)
+1. [Random Bayesian Network Generator](https://github.com/wuga214/TOOLBOX-Random-Bayes-Net-Generator)
+2. [Deep Network to Arithmetic Circuits Compiler](https:not available)
+3. [Arithmetic Circuits to Affine ADD Compiler](https:not available)
 
 # Cite
 @misc{wu_2017, 
